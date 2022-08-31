@@ -2,7 +2,7 @@
 
 
 ## Description
-
+  movement patterns for four sprite sheets
 
 Using:
 JavaScript
@@ -10,7 +10,7 @@ CSS3
 HTML/Emmet
 
 ## Challenges & Future Implementation
-
+  
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
