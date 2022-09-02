@@ -6,7 +6,7 @@ CANVAS_HEIGHT = canvas.height = 1000;
 const numberOfEnemies = 10;
 const enemiesArray = [];
 let gameFrame = 0;
-
+// create enemy, give image location
 class Enemy {
 
   constructor() {
