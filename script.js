@@ -1,5 +1,4 @@
 /** @type {HTMLCanvasElement} */
-/*   */
 
 const canvas = document.getElementById('canvas0');
 const ctx = canvas.getContext('2d');
@@ -50,6 +49,7 @@ function animate() {
   gameFrame++;
   requestAnimationFrame(animate);
 }
+
 animate();
 
 
