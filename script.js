@@ -1,5 +1,5 @@
 /** @type {HTMLCanvasElement} */
-
+/* import origin of file */
 const canvas = document.getElementById('canvas0');
 const ctx = canvas.getContext('2d');
 CANVAS_WIDTH = canvas.width = 500;
